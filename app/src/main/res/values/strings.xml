@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BUMI Series-Tere Liye</string>
+    <string name="novel_name">Nama Novel</string>
+    <string name="novel_date">Tahun Terbit</string>
+    <string name="novel_author">Penulis</string>
+    <string name="description">Deksripsi</string>
+</resources>
